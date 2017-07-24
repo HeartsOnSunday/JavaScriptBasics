@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function myFunction() {
+    document.getElementById("demo").innerHTML = "It's that easy.";
+}
+</script>
+</head>
+
+<body>
+
+<h2>America's Military-Industrial Complex</h2>
+
+<p id="demo">How hard is it to launch a nuclear bomb?</p>
+
+<button type="button" onclick="myFunction()">See for yourself!</button>
+
+</body>
+</html> 
+
